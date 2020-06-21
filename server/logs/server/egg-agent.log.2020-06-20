@@ -1,0 +1,19 @@
+2020-06-20 00:52:14,662 INFO 2540 [egg-logrotator] agent logger reload: got log-reload message
+2020-06-20 12:09:13,272 INFO 8156 [egg:logger] init all loggers with options: {"dir":"D:\\User\\桌面\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-20 12:09:13,279 INFO 8156 [egg:core] dump config after load, 4ms
+2020-06-20 12:09:13,324 INFO 8156 [egg-watcher] Start watching: ["D:\\User\\桌面\\shopping\\server\\app","D:\\User\\桌面\\shopping\\server\\config","D:\\User\\桌面\\shopping\\server\\mocks","D:\\User\\桌面\\shopping\\server\\mocks_proxy","D:\\User\\桌面\\shopping\\server\\app.js"]
+2020-06-20 12:09:13,324 INFO 8156 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\app"
+2020-06-20 12:09:13,324 INFO 8156 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\config"
+2020-06-20 12:09:13,324 INFO 8156 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\mocks"
+2020-06-20 12:09:13,325 INFO 8156 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\mocks_proxy"
+2020-06-20 12:09:13,325 INFO 8156 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\app.js"
+2020-06-20 12:09:13,325 INFO 8156 [egg-watcher:agent] watcher start success
+2020-06-20 12:09:13,338 INFO 8156 [egg:core] dump config after ready, 7ms
+2020-06-21 01:02:48,467 ERROR 8156 nodejs.ClusterClientNoResponseError: client no response in 22371174ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8156
+hostname: DESKTOP-2CVGEN6
+

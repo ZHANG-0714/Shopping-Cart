@@ -1,0 +1,22 @@
+2020-06-20 00:52:14,662 INFO 13160 [egg-logrotator] app logger reload: got log-reload message
+2020-06-20 12:09:14,439 INFO 12592 [egg:logger] init all loggers with options: {"dir":"D:\\User\\桌面\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-20 12:09:14,467 INFO 12592 [egg-multipart] stream mode enable
+2020-06-20 12:09:14,910 INFO 12592 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-06-20 12:09:15,250 INFO 12592 [egg-static] starting static serve /public/ -> D:\User\桌面\shopping\server\app\public
+2020-06-20 12:09:15,253 INFO 12592 [egg-security] use methodnoallow middleware
+2020-06-20 12:09:15,253 INFO 12592 [egg-security] use noopen middleware
+2020-06-20 12:09:15,255 INFO 12592 [egg-security] use nosniff middleware
+2020-06-20 12:09:15,256 INFO 12592 [egg-security] use xssProtection middleware
+2020-06-20 12:09:15,256 INFO 12592 [egg-security] use xframe middleware
+2020-06-20 12:09:15,257 INFO 12592 [egg-security] use dta middleware
+2020-06-20 12:09:15,257 INFO 12592 [egg-security] compose 6 middlewares into one security middleware
+2020-06-20 12:09:15,276 INFO 12592 [egg:core] dump config after load, 4ms
+2020-06-20 12:09:15,281 INFO 12592 [egg-mongoose] starting...
+2020-06-20 12:09:15,332 INFO 12592 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-06-20 12:09:15,338 INFO 12592 [egg-mongoose] instance[0] start successfully
+2020-06-20 12:09:15,345 INFO 12592 [egg-watcher:application] watcher start success
+2020-06-20 12:09:15,357 INFO 12592 [egg:core] dump config after ready, 8ms
+2020-06-21 01:02:48,338 WARN 12592 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-21 01:02:48,464 INFO 12592 [egg-logrotator] clean all log before 31 days
+2020-06-21 01:02:48,574 INFO 12592 [egg-logrotator] broadcast log-reload
+2020-06-21 01:02:48,574 INFO 12592 [egg-logrotator] rotate files success by DayRotator, files ["D:\\User\\桌面\\shopping\\server\\logs\\server\\common-error.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\common-error.log.2020-06-20","D:\\User\\桌面\\shopping\\server\\logs\\server\\server-web.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\server-web.log.2020-06-20","D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-web.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-web.log.2020-06-20","D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-schedule.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-schedule.log.2020-06-20","D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-agent.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-agent.log.2020-06-20"]

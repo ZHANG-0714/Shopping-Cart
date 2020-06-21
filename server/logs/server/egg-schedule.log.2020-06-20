@@ -1,0 +1,12 @@
+2020-06-20 12:09:14,466 INFO 12592 [egg-schedule]: register schedule D:\User\桌面\shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-20 12:09:14,466 INFO 12592 [egg-schedule]: register schedule D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-20 12:09:14,466 INFO 12592 [egg-schedule]: register schedule D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-20 12:09:15,367 INFO 8156 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 58844635ms at 2020-06-21 04:30:00.001
+2020-06-20 12:09:15,367 INFO 8156 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 42644633ms at 2020-06-21 00:00:00.000
+2020-06-20 12:09:15,367 INFO 8156 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 42645633ms at 2020-06-21 00:00:01.000
+2020-06-21 01:02:48,376 INFO 8156 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 82631634ms at 2020-06-22 00:00:00.009
+2020-06-21 01:02:48,384 INFO 8156 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 82632622ms at 2020-06-22 00:00:01.006
+2020-06-21 01:02:48,380 INFO 12592 [Job#15926725683605225309794673001] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js executing by app
+2020-06-21 01:02:48,386 INFO 12592 [Job#15926725683775225309962713991] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-06-21 01:02:48,464 INFO 12592 [Job#15926725683605225309794673001] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js execute succeed, used 81ms
+2020-06-21 01:02:48,574 INFO 12592 [Job#15926725683775225309962713991] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 186ms

@@ -1,0 +1,39 @@
+<template>
+<!-- 热销商品 -->
+ <div>
+     fds
+
+ </div>
+</template>
+
+<script>
+ export default {
+   name: '',
+   props: {
+   },
+   components: {
+
+   },
+   data () {
+     return {
+
+     }
+   },
+   methods: {
+
+   },
+   mounted() {
+
+   },
+   watch: {
+
+   },
+   computed: {
+
+   }
+ }
+</script>
+
+<style scoped lang='scss'>
+
+</style>

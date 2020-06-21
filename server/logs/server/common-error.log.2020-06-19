@@ -1,0 +1,24 @@
+2020-06-19 13:25:43,971 ERROR 2540 nodejs.ClusterClientNoResponseError: client no response in 1430609ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2540
+hostname: DESKTOP-2CVGEN6
+
+2020-06-19 20:39:36,209 ERROR 2540 nodejs.ClusterClientNoResponseError: client no response in 7191574ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2540
+hostname: DESKTOP-2CVGEN6
+
+2020-06-20 00:52:13,049 ERROR 2540 nodejs.ClusterClientNoResponseError: client no response in 13436601ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2540
+hostname: DESKTOP-2CVGEN6
+

@@ -1,0 +1,325 @@
+{
+  "keys": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+  "middleware": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+      "port": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+      "hostname": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js"
+    }
+  },
+  "view": {
+    "mapping": {
+      ".html": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js"
+    },
+    "root": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "mongoose": {
+    "client": {
+      "url": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+      "options": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js"
+    },
+    "open": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "url": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "options": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "plugins": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "loadModel": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "app": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "agent": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "domainWhiteList": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "key": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "maxAge": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "overwrite": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "httpOnly": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "signed": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "rolling": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "renew": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "encrypt": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "jsonLimit": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "encoding": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "formLimit": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "textLimit": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "strict": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "depth": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "jwt": {
+    "secret": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+    "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-jwt@3.1.7@egg-jwt\\config\\config.default.js"
+  },
+  "url": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+  "uploadDir": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+  "secret": "D:\\User\\桌面\\shopping\\server\\config\\config.default.js",
+  "helper": {
+    "shtml": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "ejs": {
+    "root": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "cache": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.local.js",
+    "debug": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "compileDebug": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "delimiter": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "strict": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js"
+  },
+  "env": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "name": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "cookies": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "proxy": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "version": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "description": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "private": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "dependencies": {
+      "axios": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "better-scroll": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "egg": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "egg-cors": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "egg-jwt": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "egg-mongoose": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "egg-scripts": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "egg-view-ejs": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "md5": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "mz-modules": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "request": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "silly-datetime": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "svg-captcha": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "autod-egg": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "egg-bin": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "egg-ci": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "egg-mock": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "eslint": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "webstorm-disable-index": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "stop": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "dev": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "debug": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "test": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "test-local": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "cov": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "lint": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "ci": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "autod": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "url": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "author": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "license": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "HOME": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "rundir": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "notFound": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "sitefile": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "middlewares": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "httpClient": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "encoding": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "env": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "level": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "outputJSON": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "buffer": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "appLogName": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "coreLogName": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "agentLogName": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "errorLogName": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "maxSockets": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "maxSockets": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "logging": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "serverTimeout": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "responseTimeout": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\User\\桌面\\shopping\\server\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+}
