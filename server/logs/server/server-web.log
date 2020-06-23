@@ -1,0 +1,14 @@
+2020-06-23 00:44:25,391 ERROR 19560 [-/127.0.0.1/-/7ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "{ id: '5ef0b7dfcd32014c68e2050c' }" at path "_id" for model "Address"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5ef0b7dfcd32014c68e2050c' }\""
+kind: "ObjectId"
+value: {"id":"5ef0b7dfcd32014c68e2050c"}
+path: "_id"
+reason: {}
+pid: 19560
+hostname: DESKTOP-2CVGEN6
+
