@@ -1,0 +1,55 @@
+2020-06-24 00:49:24,843 INFO 16996 [egg-logrotator] agent logger reload: got log-reload message
+2020-06-24 08:54:12,383 INFO 1692 [egg:logger] init all loggers with options: {"dir":"D:\\User\\桌面\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-24 08:54:12,390 INFO 1692 [egg:core] dump config after load, 4ms
+2020-06-24 08:54:12,436 INFO 1692 [egg-watcher] Start watching: ["D:\\User\\桌面\\shopping\\server\\app","D:\\User\\桌面\\shopping\\server\\config","D:\\User\\桌面\\shopping\\server\\mocks","D:\\User\\桌面\\shopping\\server\\mocks_proxy","D:\\User\\桌面\\shopping\\server\\app.js"]
+2020-06-24 08:54:12,436 INFO 1692 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\app"
+2020-06-24 08:54:12,437 INFO 1692 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\config"
+2020-06-24 08:54:12,437 INFO 1692 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\mocks"
+2020-06-24 08:54:12,437 INFO 1692 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\mocks_proxy"
+2020-06-24 08:54:12,437 INFO 1692 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\app.js"
+2020-06-24 08:54:12,438 INFO 1692 [egg-watcher:agent] watcher start success
+2020-06-24 08:54:12,450 INFO 1692 [egg:core] dump config after ready, 6ms
+2020-06-24 09:54:14,576 INFO 1064 [egg:logger] init all loggers with options: {"dir":"D:\\User\\桌面\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-24 09:54:14,583 INFO 1064 [egg:core] dump config after load, 4ms
+2020-06-24 09:54:14,628 INFO 1064 [egg-watcher] Start watching: ["D:\\User\\桌面\\shopping\\server\\app","D:\\User\\桌面\\shopping\\server\\config","D:\\User\\桌面\\shopping\\server\\mocks","D:\\User\\桌面\\shopping\\server\\mocks_proxy","D:\\User\\桌面\\shopping\\server\\app.js"]
+2020-06-24 09:54:14,628 INFO 1064 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\app"
+2020-06-24 09:54:14,628 INFO 1064 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\config"
+2020-06-24 09:54:14,629 INFO 1064 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\mocks"
+2020-06-24 09:54:14,629 INFO 1064 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\mocks_proxy"
+2020-06-24 09:54:14,629 INFO 1064 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\app.js"
+2020-06-24 09:54:14,629 INFO 1064 [egg-watcher:agent] watcher start success
+2020-06-24 09:54:14,642 INFO 1064 [egg:core] dump config after ready, 5ms
+2020-06-24 12:26:27,283 ERROR 1064 nodejs.ClusterClientNoResponseError: client no response in 130042ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 1064
+hostname: DESKTOP-2CVGEN6
+
+2020-06-24 13:31:26,171 ERROR 1064 nodejs.ClusterClientNoResponseError: client no response in 3898869ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 1064
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 12:15:31,570 INFO 13804 [egg:logger] init all loggers with options: {"dir":"D:\\User\\桌面\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-25 12:15:31,577 INFO 13804 [egg:core] dump config after load, 4ms
+2020-06-25 12:15:31,622 INFO 13804 [egg-watcher] Start watching: ["D:\\User\\桌面\\shopping\\server\\app","D:\\User\\桌面\\shopping\\server\\config","D:\\User\\桌面\\shopping\\server\\mocks","D:\\User\\桌面\\shopping\\server\\mocks_proxy","D:\\User\\桌面\\shopping\\server\\app.js"]
+2020-06-25 12:15:31,622 INFO 13804 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\app"
+2020-06-25 12:15:31,623 INFO 13804 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\config"
+2020-06-25 12:15:31,623 INFO 13804 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\mocks"
+2020-06-25 12:15:31,623 INFO 13804 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\mocks_proxy"
+2020-06-25 12:15:31,623 INFO 13804 [egg-watcher] Start watching: "D:\\User\\桌面\\shopping\\server\\app.js"
+2020-06-25 12:15:31,623 INFO 13804 [egg-watcher:agent] watcher start success
+2020-06-25 12:15:31,639 INFO 13804 [egg:core] dump config after ready, 8ms
+2020-06-26 01:00:27,120 ERROR 13804 nodejs.ClusterClientNoResponseError: client no response in 17974013ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 13804
+hostname: DESKTOP-2CVGEN6
+

@@ -1,0 +1,74 @@
+2020-06-26 13:40:41,811 ERROR 18580 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 18580
+hostname: DESKTOP-2CVGEN6
+
+2020-06-26 13:58:20,120 ERROR 18580 [-/127.0.0.1/-/0ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 18580
+hostname: DESKTOP-2CVGEN6
+
+2020-06-26 14:00:20,217 ERROR 18580 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 18580
+hostname: DESKTOP-2CVGEN6
+
+2020-06-26 14:00:20,223 ERROR 18580 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '24afea564e5248b5a2bc59da95f09911' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '24afea564e5248b5a2bc59da95f09911' }\""
+kind: "string"
+value: {"id":"24afea564e5248b5a2bc59da95f09911"}
+path: "cid"
+reason: null
+pid: 18580
+hostname: DESKTOP-2CVGEN6
+
+2020-06-26 14:31:34,632 ERROR 18580 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 18580
+hostname: DESKTOP-2CVGEN6
+
+2020-06-27 01:20:50,721 ERROR 16388 nodejs.ClusterClientNoResponseError: client no response in 24451561ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 16388
+hostname: DESKTOP-2CVGEN6
+

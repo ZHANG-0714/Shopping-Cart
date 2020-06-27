@@ -1,0 +1,888 @@
+2020-06-25 18:19:41,790 ERROR 16676 [-/127.0.0.1/-/51ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5ef45db168b61a412463735b' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5ef45db168b61a412463735b' }\""
+kind: "string"
+value: {"id":"5ef45db168b61a412463735b"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:20:22,442 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:32:37,085 ERROR 16676 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:33:35,009 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5eeb2434d696434340bf31bf' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5eeb2434d696434340bf31bf' }\""
+kind: "string"
+value: {"id":"5eeb2434d696434340bf31bf"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:36:23,269 ERROR 16676 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:36:23,275 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:36:23,284 ERROR 16676 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:36:23,571 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:36:23,575 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:44:53,308 ERROR 16676 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ null ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ null ] }\""
+kind: "string"
+value: {"id":[null]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:44:53,609 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ null ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ null ] }\""
+kind: "string"
+value: {"id":[null]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:44:53,614 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ null ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ null ] }\""
+kind: "string"
+value: {"id":[null]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:44:53,618 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ null ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ null ] }\""
+kind: "string"
+value: {"id":[null]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:44:53,622 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ null ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ null ] }\""
+kind: "string"
+value: {"id":[null]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:48:22,705 ERROR 16676 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:48:22,712 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:48:22,718 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:48:22,723 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:48:22,730 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:49:18,010 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:49:45,768 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:51:15,254 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"cid":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 18:59:52,759 ERROR 16676 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '24afea564e5248b5a2bc59da95f09911' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '24afea564e5248b5a2bc59da95f09911' }\""
+kind: "string"
+value: {"id":"24afea564e5248b5a2bc59da95f09911"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:00:12,464 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:00:55,906 ERROR 16676 [-/127.0.0.1/-/9ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    'e53c046465204d4fb8f22431cc2807e7',
+    'e53c046465204d4fb8f22431cc2807e7'
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    'e53c046465204d4fb8f22431cc2807e7',
+    'e53c046465204d4fb8f22431cc2807e7'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    'e53c046465204d4fb8f22431cc2807e7',\n    'e53c046465204d4fb8f22431cc2807e7'\n  ]\n}\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7","e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:01:36,342 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    'e53c046465204d4fb8f22431cc2807e7',
+    'e53c046465204d4fb8f22431cc2807e7'
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    'e53c046465204d4fb8f22431cc2807e7',
+    'e53c046465204d4fb8f22431cc2807e7'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    'e53c046465204d4fb8f22431cc2807e7',\n    'e53c046465204d4fb8f22431cc2807e7'\n  ]\n}\""
+kind: "string"
+value: {"id":["e53c046465204d4fb8f22431cc2807e7","e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:24:16,612 ERROR 16676 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"cid":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:24:34,697 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"cid":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:25:18,023 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"cid":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:25:18,033 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"cid":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:25:18,040 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"cid":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:25:18,047 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"cid":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:25:18,057 ERROR 16676 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: [ 'e53c046465204d4fb8f22431cc2807e7' ] }\""
+kind: "string"
+value: {"cid":["e53c046465204d4fb8f22431cc2807e7"]}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:26:33,075 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"cid":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:26:54,664 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"cid":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:27:15,999 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"cid":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:27:44,907 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ cid: 'b1195296679f482aa7d54d95ac2b4a94' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ cid: 'b1195296679f482aa7d54d95ac2b4a94' }\""
+kind: "string"
+value: {"cid":"b1195296679f482aa7d54d95ac2b4a94"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:28:07,608 ERROR 16676 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'b1195296679f482aa7d54d95ac2b4a94' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'b1195296679f482aa7d54d95ac2b4a94' }\""
+kind: "string"
+value: {"id":"b1195296679f482aa7d54d95ac2b4a94"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:28:18,166 ERROR 16676 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:29:18,780 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:30:07,138 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'b1195296679f482aa7d54d95ac2b4a94' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'b1195296679f482aa7d54d95ac2b4a94' }\""
+kind: "string"
+value: {"id":"b1195296679f482aa7d54d95ac2b4a94"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:30:47,391 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5eeb2434d696434340bf31bf' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5eeb2434d696434340bf31bf' }\""
+kind: "string"
+value: {"id":"5eeb2434d696434340bf31bf"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:30:49,132 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5eeb2434d696434340bf31bf' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5eeb2434d696434340bf31bf' }\""
+kind: "string"
+value: {"id":"5eeb2434d696434340bf31bf"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:31:03,645 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5ef45db168b61a412463735b' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5ef45db168b61a412463735b' }\""
+kind: "string"
+value: {"id":"5ef45db168b61a412463735b"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:31:18,028 ERROR 16676 [-/127.0.0.1/-/0ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:32:23,262 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:34:32,416 ERROR 16676 [-/127.0.0.1/-/0ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:35:35,760 ERROR 16676 [-/127.0.0.1/-/0ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:37:13,971 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:40:17,379 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:40:42,348 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5ef45db168b61a412463735b' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5ef45db168b61a412463735b' }\""
+kind: "string"
+value: {"id":"5ef45db168b61a412463735b"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:40:58,592 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5eeb2434d696434340bf31bf' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5eeb2434d696434340bf31bf' }\""
+kind: "string"
+value: {"id":"5eeb2434d696434340bf31bf"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:41:03,743 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5eeb2434d696434340bf31bf' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5eeb2434d696434340bf31bf' }\""
+kind: "string"
+value: {"id":"5eeb2434d696434340bf31bf"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:41:19,888 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:41:37,030 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:41:47,536 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:41:47,540 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'b1195296679f482aa7d54d95ac2b4a94' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'b1195296679f482aa7d54d95ac2b4a94' }\""
+kind: "string"
+value: {"id":"b1195296679f482aa7d54d95ac2b4a94"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:41:47,543 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '829f8bb596dc4270a46fa0a5b5937411' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '829f8bb596dc4270a46fa0a5b5937411' }\""
+kind: "string"
+value: {"id":"829f8bb596dc4270a46fa0a5b5937411"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:41:47,547 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '449666157ac2438991810e0ae8947cad' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '449666157ac2438991810e0ae8947cad' }\""
+kind: "string"
+value: {"id":"449666157ac2438991810e0ae8947cad"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:41:47,555 ERROR 16676 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '24afea564e5248b5a2bc59da95f09911' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '24afea564e5248b5a2bc59da95f09911' }\""
+kind: "string"
+value: {"id":"24afea564e5248b5a2bc59da95f09911"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:41:57,711 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '829f8bb596dc4270a46fa0a5b5937411' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '829f8bb596dc4270a46fa0a5b5937411' }\""
+kind: "string"
+value: {"id":"829f8bb596dc4270a46fa0a5b5937411"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+
+2020-06-25 19:43:22,038 ERROR 16676 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e53c046465204d4fb8f22431cc2807e7' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e53c046465204d4fb8f22431cc2807e7' }\""
+kind: "string"
+value: {"id":"e53c046465204d4fb8f22431cc2807e7"}
+path: "cid"
+reason: null
+pid: 16676
+hostname: DESKTOP-2CVGEN6
+

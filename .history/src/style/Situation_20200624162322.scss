@@ -1,0 +1,55 @@
+.van--length {
+    .van-field__error-message {
+        position: absolute;
+        top: 0;
+        left: 100px;
+    }
+
+    .van-field__label {
+        color: rgb(253, 253, 253);
+    }
+
+    .van-field__control {
+        color: #ccc;
+    }
+
+    .van-field__control::placeholder {
+        color: #c4c4c4;
+    }
+
+    .van-cell:after {
+        border: 0
+    }
+}
+
+.van--color {
+
+    .van-icon,
+    .van-icon:before {
+        color: #000;
+        font-size: 20px;
+    }
+
+    .van-search__content--square {
+        background-color: #fff;
+    }
+
+    .van-index-bar__index {
+        color: #52CDDE;
+        font-size: 15px;
+        margin-top: 7px;
+    }
+
+    .van-index-bar__sidebar {
+        margin-top: 45px;
+    }
+
+    .van-tab {
+        width: 20px;
+    }
+
+    .van-tab__pane,
+    .van-tab__pane-wrapper {
+        margin-bottom: 50px;
+    }
+}

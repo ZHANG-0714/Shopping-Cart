@@ -1,0 +1,23 @@
+2020-06-26 01:00:27,223 INFO 16676 [egg-logrotator] app logger reload: got log-reload message
+2020-06-26 13:36:17,592 INFO 18580 [egg:logger] init all loggers with options: {"dir":"D:\\User\\桌面\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-26 13:36:17,633 INFO 18580 [egg-multipart] stream mode enable
+2020-06-26 13:36:18,153 INFO 18580 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-06-26 13:36:18,490 INFO 18580 [egg-static] starting static serve /public/ -> D:\User\桌面\shopping\server\app\public
+2020-06-26 13:36:18,493 INFO 18580 [egg-security] use methodnoallow middleware
+2020-06-26 13:36:18,494 INFO 18580 [egg-security] use noopen middleware
+2020-06-26 13:36:18,496 INFO 18580 [egg-security] use nosniff middleware
+2020-06-26 13:36:18,496 INFO 18580 [egg-security] use xssProtection middleware
+2020-06-26 13:36:18,497 INFO 18580 [egg-security] use xframe middleware
+2020-06-26 13:36:18,498 INFO 18580 [egg-security] use dta middleware
+2020-06-26 13:36:18,498 INFO 18580 [egg-security] compose 6 middlewares into one security middleware
+2020-06-26 13:36:18,529 INFO 18580 [egg:core] dump config after load, 5ms
+2020-06-26 13:36:18,533 INFO 18580 [egg-mongoose] starting...
+2020-06-26 13:36:18,601 INFO 18580 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-06-26 13:36:18,607 INFO 18580 [egg-mongoose] instance[0] start successfully
+2020-06-26 13:36:18,609 INFO 18580 [egg-watcher:application] watcher start success
+2020-06-26 13:36:18,622 INFO 18580 [egg:core] dump config after ready, 10ms
+2020-06-27 01:20:50,689 WARN 18580 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-27 01:20:50,704 WARN 18580 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-27 01:20:50,785 INFO 18580 [egg-logrotator] clean all log before 31 days
+2020-06-27 01:20:51,442 INFO 18580 [egg-logrotator] broadcast log-reload
+2020-06-27 01:20:51,446 INFO 18580 [egg-logrotator] rotate files success by DayRotator, files ["D:\\User\\桌面\\shopping\\server\\logs\\server\\common-error.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\common-error.log.2020-06-26","D:\\User\\桌面\\shopping\\server\\logs\\server\\server-web.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\server-web.log.2020-06-26","D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-web.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-web.log.2020-06-26","D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-schedule.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-schedule.log.2020-06-26","D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-agent.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-agent.log.2020-06-26"]

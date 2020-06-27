@@ -1,18 +1,1 @@
-2020-06-23 00:00:01,033 INFO 19560 [egg-logrotator] app logger reload: got log-reload message
-2020-06-23 08:36:28,588 INFO 15320 [egg:logger] init all loggers with options: {"dir":"D:\\User\\桌面\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
-2020-06-23 08:36:28,618 INFO 15320 [egg-multipart] stream mode enable
-2020-06-23 08:36:29,095 INFO 15320 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
-2020-06-23 08:36:29,551 INFO 15320 [egg-static] starting static serve /public/ -> D:\User\桌面\shopping\server\app\public
-2020-06-23 08:36:29,554 INFO 15320 [egg-security] use methodnoallow middleware
-2020-06-23 08:36:29,555 INFO 15320 [egg-security] use noopen middleware
-2020-06-23 08:36:29,557 INFO 15320 [egg-security] use nosniff middleware
-2020-06-23 08:36:29,557 INFO 15320 [egg-security] use xssProtection middleware
-2020-06-23 08:36:29,558 INFO 15320 [egg-security] use xframe middleware
-2020-06-23 08:36:29,559 INFO 15320 [egg-security] use dta middleware
-2020-06-23 08:36:29,559 INFO 15320 [egg-security] compose 6 middlewares into one security middleware
-2020-06-23 08:36:29,582 INFO 15320 [egg:core] dump config after load, 4ms
-2020-06-23 08:36:29,586 INFO 15320 [egg-mongoose] starting...
-2020-06-23 08:36:29,644 INFO 15320 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
-2020-06-23 08:36:29,658 INFO 15320 [egg-mongoose] instance[0] start successfully
-2020-06-23 08:36:29,661 INFO 15320 [egg-watcher:application] watcher start success
-2020-06-23 08:36:29,676 INFO 15320 [egg:core] dump config after ready, 10ms
+2020-06-27 01:20:51,538 INFO 18580 [egg-logrotator] app logger reload: got log-reload message
