@@ -1,0 +1,26 @@
+2020-06-28 23:59:59,915 INFO 14940 [egg-logrotator] app logger reload: got log-reload message
+2020-06-29 08:43:16,129 INFO 17980 [egg:logger] init all loggers with options: {"dir":"D:\\User\\桌面\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-29 08:43:16,160 INFO 17980 [egg-multipart] stream mode enable
+2020-06-29 08:43:16,662 INFO 17980 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-06-29 08:43:17,005 INFO 17980 [egg-static] starting static serve /public/ -> D:\User\桌面\shopping\server\app\public
+2020-06-29 08:43:17,008 INFO 17980 [egg-security] use methodnoallow middleware
+2020-06-29 08:43:17,008 INFO 17980 [egg-security] use noopen middleware
+2020-06-29 08:43:17,010 INFO 17980 [egg-security] use nosniff middleware
+2020-06-29 08:43:17,011 INFO 17980 [egg-security] use xssProtection middleware
+2020-06-29 08:43:17,011 INFO 17980 [egg-security] use xframe middleware
+2020-06-29 08:43:17,012 INFO 17980 [egg-security] use dta middleware
+2020-06-29 08:43:17,012 INFO 17980 [egg-security] compose 6 middlewares into one security middleware
+2020-06-29 08:43:17,037 INFO 17980 [egg:core] dump config after load, 4ms
+2020-06-29 08:43:17,041 INFO 17980 [egg-mongoose] starting...
+2020-06-29 08:43:17,089 INFO 17980 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-06-29 08:43:17,095 INFO 17980 [egg-mongoose] instance[0] start successfully
+2020-06-29 08:43:17,101 INFO 17980 [egg-watcher:application] watcher start success
+2020-06-29 08:43:17,113 INFO 17980 [egg:core] dump config after ready, 8ms
+2020-06-29 12:30:48,037 WARN 17980 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 13:31:12,130 WARN 17980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-29 13:31:12,169 WARN 17980 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-30 00:19:46,248 WARN 17980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-30 00:19:46,260 WARN 17980 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-30 00:19:46,314 INFO 17980 [egg-logrotator] clean all log before 31 days
+2020-06-30 00:19:46,329 INFO 17980 [egg-logrotator] broadcast log-reload
+2020-06-30 00:19:46,330 INFO 17980 [egg-logrotator] rotate files success by DayRotator, files ["D:\\User\\桌面\\shopping\\server\\logs\\server\\common-error.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\common-error.log.2020-06-29","D:\\User\\桌面\\shopping\\server\\logs\\server\\server-web.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\server-web.log.2020-06-29","D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-web.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-web.log.2020-06-29","D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-schedule.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-schedule.log.2020-06-29","D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-agent.log -> D:\\User\\桌面\\shopping\\server\\logs\\server\\egg-agent.log.2020-06-29"]

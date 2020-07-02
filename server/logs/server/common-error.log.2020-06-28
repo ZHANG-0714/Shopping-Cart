@@ -1,0 +1,187 @@
+2020-06-28 00:10:17,978 ERROR 21116 [-/127.0.0.1/-/38ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:10:20,059 ERROR 21116 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:11:22,128 ERROR 21116 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:11:24,417 ERROR 21116 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:11:25,087 ERROR 21116 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:12:49,026 ERROR 21116 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:12:49,776 ERROR 21116 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:17:46,343 ERROR 21116 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:17:49,935 ERROR 21116 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:18:33,852 ERROR 21116 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 00:18:37,358 ERROR 21116 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 21116
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 12:40:20,661 ERROR 13540 nodejs.ClusterClientNoResponseError: client no response in 931361ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 13540
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 14:28:34,383 ERROR 14940 [-/127.0.0.1/-/23ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ id: '24afea564e5248b5a2bc59da95f09911' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '24afea564e5248b5a2bc59da95f09911' }\""
+kind: "string"
+value: {"id":"24afea564e5248b5a2bc59da95f09911"}
+path: "cid"
+reason: null
+pid: 14940
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 14:28:34,424 ERROR 14940 [-/127.0.0.1/-/2ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ id: '24afea564e5248b5a2bc59da95f09911' }" at path "cid" for model "ShopList"
+    at model.Query.exec (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (D:\User\桌面\shopping\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '24afea564e5248b5a2bc59da95f09911' }\""
+kind: "string"
+value: {"id":"24afea564e5248b5a2bc59da95f09911"}
+path: "cid"
+reason: null
+pid: 14940
+hostname: DESKTOP-2CVGEN6
+
+2020-06-28 21:36:55,858 ERROR 13540 nodejs.ClusterClientNoResponseError: client no response in 5994171ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\User\桌面\shopping\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 13540
+hostname: DESKTOP-2CVGEN6
+

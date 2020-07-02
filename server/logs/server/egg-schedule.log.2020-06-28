@@ -1,0 +1,18 @@
+2020-06-28 00:02:30,935 INFO 21116 [egg-schedule]: register schedule D:\User\桌面\shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-28 00:02:30,936 INFO 21116 [egg-schedule]: register schedule D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-28 00:02:30,936 INFO 21116 [egg-schedule]: register schedule D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-28 00:02:32,241 INFO 18360 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 16047761ms at 2020-06-28 04:30:00.002
+2020-06-28 00:02:32,242 INFO 18360 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 86247759ms at 2020-06-29 00:00:00.001
+2020-06-28 00:02:32,243 INFO 18360 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86248758ms at 2020-06-29 00:00:01.001
+2020-06-28 08:49:09,148 INFO 14940 [egg-schedule]: register schedule D:\User\桌面\shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-28 08:49:09,148 INFO 14940 [egg-schedule]: register schedule D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-28 08:49:09,148 INFO 14940 [egg-schedule]: register schedule D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-28 08:49:10,058 INFO 13540 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 70849945ms at 2020-06-29 04:30:00.003
+2020-06-28 08:49:10,059 INFO 13540 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 54649941ms at 2020-06-29 00:00:00.000
+2020-06-28 08:49:10,059 INFO 13540 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 54650941ms at 2020-06-29 00:00:01.000
+2020-06-28 23:59:58,969 INFO 14940 [Job#159335999889012099801451937001] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js executing by app
+2020-06-28 23:59:59,004 INFO 14940 [Job#159335999889012099801451937001] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js execute succeed, used 33ms
+2020-06-28 23:59:58,930 INFO 13540 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 86401089ms at 2020-06-30 00:00:00.019
+2020-06-28 23:59:59,877 INFO 14940 [Job#159335999987312099811247781001] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-06-28 23:59:59,905 INFO 14940 [Job#159335999987312099811247781001] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 27ms
+2020-06-28 23:59:59,887 INFO 13540 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86401126ms at 2020-06-30 00:00:01.013
