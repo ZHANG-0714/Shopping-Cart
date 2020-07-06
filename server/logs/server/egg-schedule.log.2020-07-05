@@ -1,0 +1,6 @@
+2020-07-06 00:00:00,015 INFO 16312 [Job#15939648000083997844944435003] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js executing by app
+2020-07-06 00:00:00,024 INFO 16312 [Job#15939648000083997844944435003] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js execute succeed, used 9ms
+2020-07-06 00:00:00,018 INFO 12228 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 86399990ms at 2020-07-07 00:00:00.008
+2020-07-06 00:00:01,008 INFO 16312 [Job#15939648010053997854918730003] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-07-06 00:00:01,032 INFO 16312 [Job#15939648010053997854918730003] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 24ms
+2020-07-06 00:00:01,020 INFO 12228 [Timer] D:\User\桌面\shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399994ms at 2020-07-07 00:00:01.014
